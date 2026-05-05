@@ -1,4 +1,4 @@
-# NeoDK AI Bridge — LMStudio + SillyTavern + ReStim
+-stm# NeoDK AI Bridge — LMStudio + SillyTavern + ReStim
 
 > Control a NeoDK e-stim box in real time using a local AI during roleplay sessions.
 
@@ -175,7 +175,7 @@ lyna_example_note.txt     Example AI character system prompt
 - [diglet48](https://github.com/diglet48) — ReStim and NeoDK 3-phase firmware
 - [edger477](https://github.com/edger477) — ReStim development and funscript tools
 - [Onwrikbaar](https://github.com/Onwrikbaar) — NeoDK hardware and inspiration
-- Joanne's Kinky Stuff community for sharing knowledge
+- Joanne's E-stim community for sharing knowledge
 
 ## License
 
