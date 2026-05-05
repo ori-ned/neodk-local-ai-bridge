@@ -80,7 +80,7 @@ Waiting for SillyTavern...
 
 ### 6. Set up your AI character
 
-Create a character in SillyTavern and paste the contents of `lyna_example_note.txt` into the **Character Note** field (role: System).
+Create a character in SillyTavern and paste the contents of `ia_character-note.txt` into the **Character Note** field (role: System).
 
 ## How it works
 
