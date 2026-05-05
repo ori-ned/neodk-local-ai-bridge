@@ -1,0 +1,9 @@
+{
+    "display_name": "Estim Bridge",
+    "version": "1.0.0",
+    "js": "index.js",
+    "description": "Contrôle un boîtier e-stim via les réponses de l'IA. Extrait les commandes <estim>...</estim> et les envoie à ReStim.",
+    "requires": [],
+    "optional": [],
+    "tags": ["hardware", "estim"]
+}
